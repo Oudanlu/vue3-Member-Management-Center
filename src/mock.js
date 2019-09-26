@@ -10,8 +10,8 @@ const data = Mock.mock({
             'salary|6000-8000.1-3': 1, 
             'status|1': true, 
             'open|2-4': false, // 生成的概率， true 4/(2+4) false 2/(2+4)
-            'order|2': {id: 1, name: '订单1', price: 999}, // 在对象中随机抽取2个属性进行返回 
-            'order2|2-3': {id: 1, name: '订单1', price: 999}, // 在对象中随机抽取2个属性进行返回 
+            'order|2': {id: 1, name: '订单1', price: 999}, 
+            'order2|2-3': {id: 1, name: '订单1', price: 999}, 
             'idCard': /\d{15}|\d{18}/ // 指定正则表达式，当前生成身份证号.! 不要用单引号引起来。
         }
     ]
