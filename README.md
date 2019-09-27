@@ -1,4 +1,4 @@
-# vue3-Member-Management-Center
+# Vue3-Member-Management-Center
 📝这是一个基于vue3全家桶开发的前后端分离项目。本项目使用NPM保资源管理器，结合webpack进行打包。
 
 🐉在架构风格上我采用RESTful，因为这个架构风格使用Web的现有特征和能力， 更好地使用现有Web标准中的一些准则和约束。
