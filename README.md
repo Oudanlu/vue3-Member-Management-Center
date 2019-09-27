@@ -20,12 +20,34 @@ cd vue3-Member-Management-Center.git
 # 安装依赖
 npm install 或 yarn(推荐)
 
+# 安装mock.js
+npm install mockjs
+
+# 安装axios
+npm install axios -S
+
+# 安装 Element-UI
+npm i -S element-ui
+
+
+
 # 开启本地服务器
 npm run dev
 
 # 发布环境
 npm run build
 
+# 启动项目如果报错的话，请检查配置文件
+
+# 项目运行部分截图
+
+![Image text](https://github.com/Oudanlu/vue3-Member-Management-Center/blob/master/src/assets/C1%200.png)
+
+![Image text](https://github.com/Oudanlu/vue3-Member-Management-Center/blob/master/src/assets/C2%2011.png)
+
+![Image text](https://github.com/Oudanlu/vue3-Member-Management-Center/blob/master/src/assets/C3%2024.png)
+
+![Image text](https://github.com/Oudanlu/vue3-Member-Management-Center/blob/master/src/assets/C4%2073.png)
 
 
 # 项目运行动图
