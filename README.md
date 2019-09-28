@@ -15,7 +15,7 @@
 git clone https://github.com/Oudanlu/vue3-Member-Management-Center.git
 
 # 进入文件夹
-cd vue3-Member-Management-Center.git
+cd vue3-Member-Management-Center
 
 # 安装依赖
 npm install 或 yarn(推荐)
